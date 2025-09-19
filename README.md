@@ -21,7 +21,5 @@
    [Texto del enlace](http://www.ejemplo.com)
 
     | Nombre | Apellidos | Clase
-   |
     |--------|-----------|------
-   |
     | Christian | Perez | 1DAW 
